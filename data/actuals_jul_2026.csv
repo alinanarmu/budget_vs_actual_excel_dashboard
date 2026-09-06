@@ -1,0 +1,35 @@
+Date,Department,Category,Vendor,Amount
+2026-07-10,sales,TRAVEL,WeWork,5155.21
+2026-07-28,Sales,Client Entertainment ,WeWork,904.81
+2026-07-19,Marketing,DIGITAL ADVERTISING,LinkedIn Corp,4191.41
+20/7/2026,MARKETING,events & sponsorships,Air Canada,1174.52
+2026-07-10,HR,TRAINING,Dell Technologies,1450.11
+2026-07-15,MARKETING,Digital Advertising ,Google Ads,3563.46
+2026-07-13,OPERATIONS,Supplies ,WeWork,1994.53
+2026-07-03,Operations, Supplies,FedEx,1761.32
+22/7/2026,hr,training,Indeed.com,980.99
+2026-07-21,IT,Software Licenses ,Microsoft 365,2997.08
+2026-07-25,marketing,Events & Sponsorships,Staples Inc,1637.52
+2026-07-22,Marketing,events & sponsorships,Staples Inc,1227.63
+2026-07-21,it,hardware,LinkedIn Corp,3188.78
+2026-07-21,hr,Training,WeWork,1537.23
+6/7/2026,IT,Software Licenses ,WeWork,2122.24
+2026-07-26,HR, Recruiting,FedEx,2862.2
+17/7/2026, IT , Hardware,Staples Inc,2252.46
+2026-07-16,it,hardware,FedEx,2959.03
+2026-07-10,hr,Training ,Staples Inc,1202.94
+2026-07-26,hr,Recruiting,WeWork,2649.53
+2026-07-04,operations,LOGISTICS,FedEx,2155.44
+2026-07-27,IT,Hardware ,FedEx,2253.79
+2026-07-22,sales,Travel,Dell Technologies,3086.56
+2026-07-26, Operations ,Supplies,Indeed.com,2971.7
+2026-07-25,SALES,CLIENT ENTERTAINMENT,LinkedIn Corp,1004.49
+2026-07-11,HR,RECRUITING,Staples Inc,2979.36
+2026-07-11,Sales,CLIENT ENTERTAINMENT,FedEx,876.14
+2026-07-25,IT,SOFTWARE LICENSES,Google Ads,1925.31
+2026-07-02,marketing, Digital Advertising,Indeed.com,4143.11
+2026-07-07,IT,Software Licenses,LinkedIn Corp,1858.16
+2026-07-02, HR , Recruiting,WeWork,2970.0
+2026-07-11,,,,
+2026-07-19,Operations, Logistics,Uber for Business,1918.21
+2026-07-23,Operations, Logistics,Google Ads,2213.12
