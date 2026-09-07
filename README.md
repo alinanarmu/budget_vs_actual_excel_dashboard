@@ -39,6 +39,8 @@ Power Query was used to:
 - Standardize department, category and vendor names
 - Preserve the source filename for data traceability
 - Create a repeatable process that can be refreshed when new files are added
+  
+The refresh process was tested by adding a temporary September transaction file. Power Query detected and transformed the new file automatically, and the transaction was removed successfully when the test file was deleted.
 
 ## Calculations
 
@@ -76,15 +78,18 @@ The year-end forecast uses the average monthly spending from January–August an
 ## Repository contents
 
 - `Budget_vs_Actual_Forecast_Dashboard.xlsx` — completed Excel workbook
-- `dashboard-preview.png` — dashboard preview
-- `data/` — monthly actuals and budget source files
+- `dashboard_preview.png` — dashboard preview
+- `data/actuals/` — eight monthly actual-spending CSV files
+- `data/budget/` — monthly budget reference CSV
 
 ## How to use
 
-1. Download the workbook and the `data` folder.
-2. Open the workbook in Microsoft Excel.
-3. Review the saved dashboard without enabling external connections.
-4. To refresh the analysis, update the Power Query folder source to the downloaded `data` folder and select **Data → Refresh All**.
+1. Download the complete repository.
+2. Open `Budget_vs_Actual_Forecast_Dashboard.xlsx` in Microsoft Excel.
+3. The saved dashboard can be reviewed without refreshing the connections.
+4. To refresh the workbook, update the `raw_data` Power Query source to `data/actuals`.
+5. Update the budget query source to `data/budget`.
+6. Select **Data → Refresh All**.
 
 ## Security note
 
